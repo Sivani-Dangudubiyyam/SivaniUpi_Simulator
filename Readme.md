@@ -43,7 +43,7 @@ pip install qrcode[pil]
 ## ▶️ Running the Application
 
 ```bash
-python upi_simulator.py
+python SivaniUpiSimulator.py
 ```
 
 On launch:
