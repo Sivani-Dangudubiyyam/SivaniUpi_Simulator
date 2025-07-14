@@ -1,7 +1,3 @@
-Here’s a **professional `README.md`** for your UPI Simulator project:
-
----
-
 # 💸 Sivani's UPI Simulator
 
 A **command-line Python application** that simulates UPI-based digital payments using QR codes. Users can register, login, view wallet balance, generate QR codes for transactions, and maintain transaction history — all stored securely using SQLite.
